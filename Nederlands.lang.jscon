@@ -71,7 +71,7 @@
 	"bkp_set_load":	  "Laad Settings",
 	"ce_show_msg" : "activeer custom emotes",
 	"ce_max" : 	"Maxiamale emotes in een bericht",
-	"ccs_title" : 	"Snelheid(berichten/sec)",
+	"ccs_title" : 	"berichten/sec",
     "bgcustom":           "Aangepaste achtergronden",
     "background":         "Achtergrond",
     "background_abbr":    "BG",
