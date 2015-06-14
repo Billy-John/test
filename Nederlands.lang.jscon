@@ -196,7 +196,7 @@
 	"pm_search":"Naam van gebruiker zoeken",
 	"pm_fyou":"Om %%Time%%",
 	"pm_fserv":"OrigemWoot Server in %%Time%%",
-	"pm_fuser":"%%User%% in %%Time%%",
+	"pm_fuser":"%%User%% om %%Time%%",
 	"pm_unf":"Geen gebruiker(s) gevonden.", 
 	"serv_diffnick":"Je gebruikersnaam verschilt van de gebruikersnaam op onze server. Ga naar onze Registratie Room alsjeblieft, om je gebruikersnaam te updaten: https://plug.dj/6813306957241099586",
 	"serv_noreg":"Je hebt geen account op onze server. Als je de Privé Berichten wilt gebruiken. Ga naar onze Registratie Room alsjeblieft, om een wachtwoord aan te maken: https://plug.dj/6813306957241099586 Als je de room binnenkomt, activeer het script. Er verschijnt dan een bericht om je nieuwe wachtwoord in te voeren.",
